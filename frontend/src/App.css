@@ -1,0 +1,87 @@
+.white {
+  color: white;
+}
+.red {
+  color: red;
+}
+
+.black {
+  color: #262F3D;
+}
+
+.green {
+  color: #28cd83;
+}
+
+.table-col {
+  overflow-x: auto;
+}
+
+.btn-primary {
+  background-color: #24B373;
+  color: white;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #28cd83 !important;
+}
+
+.btn-primary:active {
+  background-color: #28cd83 !important;
+}
+
+.btn-primary:focus {
+  background-color: #262F3D !important;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+  color: #28cd83 !important;
+  background-color: #1F2937;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-light .navbar-brand {
+  font-size: 20pt;
+  color: white;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: #28cd83;
+}
+
+.stock-clickable {
+  cursor: pointer;
+}
+
+.table-bordered thead td, .table-bordered thead th {
+  color: #f5f5f5 !important;
+}
+.table-bordered td, .table-bordered th {
+  color: #f5f5f5 !important;
+}
+
+.table-hover tbody tr:hover {
+  color: white;
+  background-color: rgba(0,0,0,.075);
+}
+
+.table {
+  color: white;
+}
+
+.modal-title {
+  color: #262F3D;
+}
+
+label {
+  color: #262F3D;
+}
